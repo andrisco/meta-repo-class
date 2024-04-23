@@ -1,5 +1,5 @@
-Amani Hawi
-Version Control
+Andris
+Full Stack Developer
 
 # <b> Class List </b>
 
